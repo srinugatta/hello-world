@@ -1,2 +1,2 @@
 # hello-world
- short description
+This is srinu gatta .
